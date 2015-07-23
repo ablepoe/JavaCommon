@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jul 21 16:46:10 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=D\:\\dhc_workspace\\SpringMVC\\JavaSmtpMail\\JavaSmtpMail_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.mail.sender.MailSender
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=<inc|JavaSmtpMail/src>
