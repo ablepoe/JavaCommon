@@ -30,8 +30,6 @@ import org.apache.commons.httpclient.protocol.ProtocolSocketFactory;
 
 import com.alibaba.fastjson.JSON;
 
-import sun.applet.Main;
-
 public class HttpSecureProtocolSocketFactory implements ProtocolSocketFactory{
 
 	private SSLContext sslContext;
